@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro Gomes</h1>
 <h3 align="center">A passionate frontend developer from Portugal</h3>
 
-- 🔭 I’m currently working on [Tic Tac Toe - React Native](https://github.com/PedroGomes02/TicTacToe_React-Native)
+- 🔭 I’m currently working on [NGBANK - Angular](https://github.com/PedroGomes02/ngbank-angular-)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** and **Angular**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 

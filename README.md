@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pedro Gomes</h1>
 <h3 align="center">A passionate frontend developer from Portugal</h3>
 
-- 🔭 I’m currently working on [Expense Manager in React](https://github.com/PedroGomes02/ExpenseManager-react-)
+- 🔭 I’m currently working on [Expense Manager in React](https://github.com/pedrogomes02/ExpenseManager-react-)
 
 - 🌱 I’m currently learning **React Native** and **Angular**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PedroGomes02/](https://github.com/PedroGomes02/)
+- 👨‍💻 All of my projects are available at [https://github.com/pedrogomes02/](https://github.com/pedrogomes02/)
 
 - 💬 Ask me about **I’m ready to explore the opportunities available to me, and to embark on a new and exciting journey as a junior front-end web developer.**
 
